@@ -1,4 +1,4 @@
-                                            div {
+                                            . {
                                             display: grid;
                                             grid-gap: 5px;
                                             grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
@@ -421,5 +421,5 @@
                                             left: 0;
                                             top: 200px;
                                             visibility: hidden;
-                                            opacity: 100%;
-                                            bo
+                                          opacity: 100%;}
+}
